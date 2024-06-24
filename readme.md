@@ -1,4 +1,4 @@
-# Scrapy Project README
+# Malayalam Scrapy 
 
 This is a Scrapy project for web scraping Malayalam Scraper.
 
@@ -66,11 +66,6 @@ Explain the structure of your Scrapy project here. For example:
   - README.md
   - requirements.txt
 ```
-
-
-## Contributing
-
-If you want to contribute to this project, please read our [Contributing Guidelines](CONTRIBUTING.md).
 
 ## License
 
