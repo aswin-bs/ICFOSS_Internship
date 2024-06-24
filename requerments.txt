@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.2
+cleantext==1.1.4
+itemadapter==0.8.0
+Scrapy==2.11.0
+w3lib==2.1.2
