@@ -47,27 +47,8 @@ This will install all the necessary packages, including Scrapy, in your virtual 
 Now that you have the project set up and dependencies installed, you can run the Scrapy spider. To run the spider, use the following command:
 
 ```bash
-cd tutorial
+cd corpus1
 scrapy crawl quotes
 ```
 
-## Project Structure
 
-Explain the structure of your Scrapy project here. For example:
-
-```
-- my_project/
-  - my_project/
-    - spiders/
-      - my_spider.py
-    - items.py
-    - settings.py
-  - scrapy.cfg
-  - README.md
-  - requirements.txt
-```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
